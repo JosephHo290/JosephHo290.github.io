@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://josephho290.github.io/sitemap.xml 

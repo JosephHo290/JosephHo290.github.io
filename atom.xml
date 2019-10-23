@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://josephho290.github.io/atom.xml" rel="self"/>
+  <link href="http://josephho290.github.io/"/>
+  <updated>2019-10-23T19:46:26+08:00</updated>
+  <id>http://josephho290.github.io/</id>
+  <author>
+    <name><![CDATA[何軼倫]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
+    <link href="http://josephho290.github.io/blog/2019/10/17/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2019-10-17T06:33:07+08:00</updated>
+    <id>http://josephho290.github.io/blog/2019/10/17/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[<h2>Test msg</h2>
+
+<h3>from Joe Ho</h3>
+]]></content>
+  </entry>
+  
+</feed>
